@@ -40,47 +40,77 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: "Gympass",
+      company: "Insparya Hair Medical Clinic",
       begin: {
-        month: 'sep',
+        month: 'jan',
         year: '2019'
       },
       duration: null,
-      occupation: "Frontend developer",
+      occupation: "CTO",
       description: "I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies."
   
-    },  {
-      company: "Lendico",
+    }, {
+      company: "Kona Quen K",
       begin: {
-        month: 'apr',
+        month: 'may',
         year: '2018'
       },
-      duration: null,
-      occupation: "Frontend developer",
-      description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
-  
-    }, {
-      company: "Anapro",
-      begin: {
-        month: 'dec',
-        year: '2016'
-      },
-      duration: '1 yr e 5 mos',
-      occupation: "Fullstack developer",
+      duration: '9 months',
+      occupation: "CTO",
       description: "Development and maintenance, corrective and preventive, of web applications for the real estate market."
     }, {
-      company: "Anapro",
+      company: "Muba.com",
+      begin: {
+        month: 'mar',
+        year: '2016'
+      },
+      duration: '1 year and 5 months',
+      occupation: "Web Dev / Sysadmin",
+      description: "Assembly, configuration and maintenance of high availability servers for the company's different websites. Backend/API development."
+  
+    },{
+      company: "Get Glocal S.L.",
       begin: {
         month: 'set',
-        year: '2012'
+        year: '2015'
       },
-      duration: '4 yrs e 3 mos',
-      occupation: "Support Technician",
-      description: "Responsible for the implementation and parameterization of the system, training and customer support. Acting also in person in real estate launches guaranteeing the success and good use of the tool."
+      duration: '7 months',
+      occupation: "Web Dev / Sysadmin",
+      description: "Administration of servers and monitoring systems. Web development (fullstack)."
+  
+    },{
+      company: "Groopify",
+      begin: {
+        month: 'nov',
+        year: '2014'
+      },
+      duration: '8 months',
+      occupation: "Android Dev / Sysadmin",
+      description: "App development (Android), web development (Ruby on Rails) and setup/configuration/maintenance of all servers."
+  
+    },{
+      company: "Innovega",
+      begin: {
+        month: 'jun',
+        year: '2014'
+      },
+      duration: '6 months',
+      occupation: "Web developer",
+      description: "Ruby on Rails application development."
+  
+    },{
+      company: "A.R.S.A.",
+      begin: {
+        month: 'set',
+        year: '2009'
+      },
+      duration: '2 years and 10 months',
+      occupation: "Sysadmin / teacher",
+      description: "Computer teacher for the association's patients (at different levels). I am also in charge of the design, programming and maintenance of the centre's website."
   
     },
   ],
-  portifolio: [
+  portfolio: [
     {
       image: "/images/gatsby-starter-cv.png",
       description: "Gatsby starter CV template",
@@ -91,7 +121,7 @@ module.exports = {
       description: "Responsive grid for ReactJS",
       url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
     },
-    /* more portifolio items here */
+    /* more portfolio items here */
   ],
   social: {
     twitter: "https://twitter.com/luisinder",

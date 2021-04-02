@@ -9,6 +9,7 @@ module.exports = {
   },
   pathPrefix: config.pathPrefix,
   plugins: [
+    `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
