@@ -13,27 +13,39 @@ module.exports = {
   skills: [
     {
       name: 'HTML',
-      level: 70
+      level: 90
     },
     {
       name: 'CSS',
-      level: 60
+      level: 65
     },
     {
       name: 'Javascript',
-      level: 50
+      level: 70
     },
     {
-      name: 'NodeJs',
-      level: 40
+      name: 'PHP',
+      level: 90
     },
     {
-      name: 'React',
-      level: 60
+      name: 'SQL',
+      level: 80
     },
     {
       name: 'Git',
-      level: 70
+      level: 90
+    },
+    {
+      name: 'System Administration',
+      level: 95
+    },
+    {
+      name: 'Android Dev',
+      level: 40
+    },
+    {
+      name: 'Python',
+      level: 60
     },
     /* more skills here */
   ],
@@ -138,7 +150,7 @@ module.exports = {
   fontColor: "#000000cc",
   enableDarkmode: true, // If true, enables dark mode switch
   display: 'minimal-ui',
-  icon: 'src/assets/gatsby-icon.png',
+  icon: 'src/assets/favicon.png',
   headerLinks: [
     {
       label: 'Home',
