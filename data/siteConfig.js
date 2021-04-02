@@ -144,7 +144,7 @@ module.exports = {
   siteUrl: 'https://luisinder.com',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
-  googleAnalyticsId: 'UA-000000000-1',
+  googleAnalyticsId: 'G-9LJ3S0C9WE',
   background_color: '#ffffff',
   theme_color: '#25303B',
   fontColor: "#000000cc",
