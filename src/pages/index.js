@@ -29,7 +29,7 @@ const Home = ({ className, location }) => {
     console.error('WARNING: Please set a proper googleAnalyticsId. See https://analytics.google.com for details.');
   }
 
-  const title = "Welcome to my site!"
+  const title = "Welcome to my personal page!"
   const { keywords } = siteConfig
   return (
     <Layout location={location}>

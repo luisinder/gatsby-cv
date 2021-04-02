@@ -6,10 +6,7 @@ module.exports = {
   twitterUsername: 'luisinder',
   githubUsername: 'luisinder',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+  authorDescription: `<p>&nbsp;  Developer and sysadmin with a passion for his work.</p> <p>&nbsp;  I started programming websites in a small company in my city, and now I am managing the IT department of an international company. </p><p>&nbsp;  I love learning and overcoming challenges.</p>`,
   skills: [
     {
       name: 'HTML',
@@ -143,7 +140,7 @@ module.exports = {
   },
   siteUrl: 'https://luisinder.com',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
-  siteCover: '/images/cover.jpeg',
+  siteCover: '/images/final_cover.jpeg',
   googleAnalyticsId: 'G-9LJ3S0C9WE',
   background_color: '#ffffff',
   theme_color: '#25303B',
