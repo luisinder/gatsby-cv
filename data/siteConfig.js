@@ -47,7 +47,7 @@ module.exports = {
       },
       duration: null,
       occupation: "CTO",
-      description: "I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies."
+      description: "As head of the IT department, my role is the technological conversion of the company on an international level. I also coordinate and participate in all company developments."
   
     }, {
       company: "Kona Quen K",
@@ -57,7 +57,7 @@ module.exports = {
       },
       duration: '9 months',
       occupation: "CTO",
-      description: "Development and maintenance, corrective and preventive, of web applications for the real estate market."
+      description: "Technical director, responsible for the functional definition of the product and its complete development (fullstack)."
     }, {
       company: "Muba.com",
       begin: {
@@ -71,7 +71,7 @@ module.exports = {
     },{
       company: "Get Glocal S.L.",
       begin: {
-        month: 'set',
+        month: 'sep',
         year: '2015'
       },
       duration: '7 months',
@@ -101,7 +101,7 @@ module.exports = {
     },{
       company: "A.R.S.A.",
       begin: {
-        month: 'set',
+        month: 'sep',
         year: '2009'
       },
       duration: '2 years and 10 months',
